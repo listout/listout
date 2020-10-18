@@ -1,6 +1,6 @@
 ### Hey there.
 
-Passionate Vim and Linux user. I try to follow the `KISS` philosophy as much as possible.
+Passionate ![](./icons/neovim.svg) and Linux user. I try to follow the `KISS` philosophy as much as possible.
 
 <!-- Markdown -->
 
