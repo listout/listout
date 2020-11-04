@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="icons/hello.gif">
+  <img width="400" height="200" src="icons/hello.gif">
 </p>
 
 Passionate
