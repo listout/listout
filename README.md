@@ -1,1 +1,3 @@
-![](icons/darksouls.gif){ width=100% }
+<p>
+	<img src="icons/darksouls.gif">
+</p>
