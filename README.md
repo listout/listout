@@ -1,1 +1,1 @@
-![](icons/darksouls.gif)
+![](icons/darksouls.gif) { width: 100% }
