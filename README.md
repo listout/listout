@@ -1,3 +1,1 @@
-<p>
-	<img src="icons/darksouls.gif">
-</p>
+![](icons/darksouls.gif)
